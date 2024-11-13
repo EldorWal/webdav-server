@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "outDir": "../lib",
+    "typeRoots": [
+      "../node_modules/@types"
+    ],
+    "types": ["node", "form-data"],
+    "target": "ES5"
+  }
+}
