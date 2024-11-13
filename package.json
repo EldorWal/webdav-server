@@ -31,11 +31,11 @@
   },
   "name": "eldorwal-webdav-server",
   "version": "2.6.2",
-  "author": "Justin Gritten <jgritten@eldorwalcom>",
+  "author": "Justin Gritten <justin.gritten@eldorwal.com>",
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgritten/WebDAV-Server.git"
+    "url": "https://github.com/EldorWal/webdav-server.git"
   },
   "description": "Eldor Wal WebDAV Server",
   "dependencies": {
